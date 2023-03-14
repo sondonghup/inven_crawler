@@ -2,7 +2,10 @@
 
 ### 인벤을 보면 다양한 갤러리가 있고 그중에서 오픈이슈갤러리는 게임이 아닌 사회, 이슈, 연예등의 글로 활발한 갤러리다
 
-<img width="814" alt="image" src="https://user-images.githubusercontent.com/42092560/225094710-45ec5adc-feec-427c-94bb-99d61e4d297d.png">
+
+<img width="803" alt="image" src="https://user-images.githubusercontent.com/42092560/225097290-ff7898a0-2719-4b63-a975-ddb2b00baf23.png">
+
+
 
 ### 특히 댓글 같은경우는 마치 대화를 하듯 (대화가 맞긴함..) 구성이 되어 있어서 챗봇데이터로 사용하기에 괜찮을것으로 보인다.
 ### 좋아요 개수와 유저레벨을 가져오므로 양질의 데이터를 가져올 수 있을것으로 보인다.
